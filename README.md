@@ -1,6 +1,7 @@
 # Google Drive Clone
 
 A visually inspired static clone of Google Drive built using HTML, CSS, and Materialize CSS. This project mimics the layout and basic interface of Google Drive, allowing you to explore how front-end design of a 
+modern
 
 ## 📁 Features
 
